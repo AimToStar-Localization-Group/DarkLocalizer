@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "darklocalizer",
+	"version": "1.0",
+	"name": "DarkLocalizer",
+	"description": "DarkBlades汉化",
+	"authors": [
+		"氢氧化氢"
+	],
+	"contact": {
+		"homepage": "https://mc.zhixiwiki.org/"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/darklocalizer/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"org.zhixiwiki.DarkLocalizer"
+		]
+	},
+	"mixins": [
+		{
+			"config": "darklocalizer.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
