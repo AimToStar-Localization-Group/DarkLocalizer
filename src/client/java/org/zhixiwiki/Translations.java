@@ -51,6 +51,6 @@ public class Translations {
             entry("Combine with other items in crafting table", Text.literal("与其他道具合成")),
             entry("Receive Dark Items", Text.literal("可获得暗黑道具")),
             entry("Hammer is retained but damaged in process.", Text.literal("锤子会保留，但在过程中受损。")),
-            entry("Made up of 4x Dark Ingots.", Text.literal("由4个暗黑锭制成"))
+            entry("Made up of 4x Dark Ingots.", Text.literal("由4个暗黑锭制成。"))
     );
 }
