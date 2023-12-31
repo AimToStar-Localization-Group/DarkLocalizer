@@ -51,6 +51,19 @@ public class Translations {
             entry("Combine with other items in crafting table", Text.literal("与其他道具合成")),
             entry("Receive Dark Items", Text.literal("可获得暗黑道具")),
             entry("Hammer is retained but damaged in process.", Text.literal("锤子会保留，但在过程中受损。")),
-            entry("Made up of 4x Dark Ingots.", Text.literal("由4个暗黑锭制成。"))
+            entry("Made up of 4x Dark Ingots.", Text.literal("由4个暗黑锭制成。")),
+            entry("Right-click to activate Haste & Regen", Text.literal("右击以激活急迫和生命恢复")),
+            entry("Gain Strength while holding.", Text.literal("持有时获得力量效果。")),
+            entry("Grants health boost when consumed", Text.literal("消耗后获得生命提升")),
+            entry("Duration: 10 minutes.", Text.literal("持续时间：10分钟。")),
+            entry("Randomly teleports 16 blocks in any direction when consumed.", Text.literal("消耗后随机传送至16格以内的位置。")),
+            entry("Grants haste when consumed", Text.literal("消耗后获得急迫")),
+            entry("Grants luck and hero of the village when consumed", Text.literal("消耗后获得幸运和村庄英雄")),
+            entry("Grants strength when consumed", Text.literal("消耗后获得力量")),
+            entry("Grants fire resistance when consumed", Text.literal("消耗后获得抗火")),
+            entry("Grants 1000 experience when consumed", Text.literal("消耗后获得1000经验")),
+            entry("Grants water breathing when consumed", Text.literal("消耗后获得水下呼吸")),
+            entry("Duration: 30 minutes.", Text.literal("持续时间：30分钟。"))
+
     );
 }
